@@ -1,6 +1,4 @@
-### Hi there 👋
-
-- 🔭 I like brand new t-Shirts and GutHub.
+### Hi there
 
 <!--
 **daniellsto/daniellsto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
